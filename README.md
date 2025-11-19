@@ -1,6 +1,6 @@
-Meu Estudo de Caso — Web + Mobile (Alunos)
+Atividade avaliativa 2 — Web + Mobile (Alunos)
 Descrição
-
+link do deploy no vercel: https://crud-steel-ten.vercel.app/
 Aplicação de exemplo dividida em Web (React + Vite) e Mobile (Expo + React Native) que consome uma API REST de alunos ([https://proweb.leoproti.com.br/alunos](https://proweb.leoproti.com.br/swagger-ui/index.html)).
 Funcionalidades: listar alunos, visualizar detalhes, adicionar, editar e excluir alunos. A versão web possui testes automatizados com Vitest e React Testing Library.
 
